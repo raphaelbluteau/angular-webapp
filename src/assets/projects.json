@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Umbrella Inc.",
+        "description": "Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb.",
+        "imageUrl": "http://lorempixel.com/output/abstract-q-c-480-360-5.jpg",
+        "imageAlt": "Umbrella Inc. logo"
+    },
+    {
+        "id": 2,
+        "name": "Cyberdyne Systems",
+        "description": "Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.",
+        "imageUrl": "http://lorempixel.com/output/abstract-q-c-480-360-1.jpg",
+        "imageAlt": "Cyberdyne Systems logo"
+    },
+    {
+        "id": 3,
+        "name": "OCP",
+        "description": "Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be? He's the exact opposite of the hero. And most times they're friends, like you and me! I should've known way back when... You know why, David? Because of the kids. They called me Mr Glass.",
+        "imageUrl": "http://lorempixel.com/output/abstract-q-c-480-360-2.jpg",
+        "imageAlt": "OCP logo"
+    }
+]
